@@ -47,13 +47,13 @@ Citing
 
 BibTeX
 
-    @inproceedings{
-      year={2019},
+    @inproceedings{FUN_dataset,
       title={Large Dataset and Language Model Fun-tuning for Humor Recognition},
-      author={Blinov, Vladislav and Baranova-Bolotova, Valeriia and Braslavski, Pavel},
-      language={English},
-      booktitle = {ACL},
-    
+      author={Blinov, Vladislav and Bolotova-Baranova, Valeria and Braslavski, Pavel},
+      booktitle = {Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics},
+      pages = {4027--4032},
+      year={2019},
+      url = {https://www.aclweb.org/anthology/P19-1394}
     }
 
 
